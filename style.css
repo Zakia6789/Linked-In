@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ display: flex;
+ justify-content: center;
+ align-items: center; 
+ height: 100vh;  
+}
+
+section{
+    padding: 20px 15px;
+    border: none;
+    height: 90vh;
+    width: 30vw;
+    box-shadow: 2px 1px 7px 2px gray;
+
+}
+#header1{
+font-size: 30px;
+font-family:'Courier New', Courier, monospace ;
+color: blue;
+
+}
+
+#colorfulBG{
+    background-color: #6363bb;
+    color: white;
+    border-radius: 2px;
+}
+
+#header2{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px 0 10px 0;
+}
+
+small{
+    padding: 5px 0 10px 0;
+}
+
+.personalInfo{
+    display: block;
+    height: 5vh;
+    width: 90%;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.blueWord{
+    font-size: 15px;
+    color: #3737cf;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#signinBtn{
+    background-color: #3737cf;
+    color: white;
+    border: none;
+    height: 6vh;
+    width: 90%;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+
+
+
+
